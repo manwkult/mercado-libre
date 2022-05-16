@@ -1,0 +1,12 @@
+.content-home {
+    margin: 0 auto;
+    max-width: 960px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 1px 1px 3.1px #d4d4d4;
+}
+
+.site-layout-content {
+    background-color: #f8f5f5 !important;
+    min-height: 100vh;
+}

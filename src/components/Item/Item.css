@@ -1,0 +1,13 @@
+.item {
+    height: 200px;
+}
+
+.item-info {
+    padding: 10px;
+    height: 100%;
+}
+
+.item-price {
+    font-size: 1rem;
+    font-weight: bold;
+}
