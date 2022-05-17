@@ -30,4 +30,4 @@ Libreria de diseño para `React`, compatible tanto con sus ultimas versiones com
 
 ## Store
 
-Con `redux` se esta manejando el estado centralizado de la aplicación, se utiliza para almacenar las propiedades, validar su creación, eliminación y edición y tambien para almacenar los datos de la sesión como nombre de usuario y token `jwt` para la autorización de las solicitudes HTTP en el backend API Rest.
+Con `redux` se esta manejando el estado centralizado de la aplicación, se utiliza para que a través de las acciones se consulten los datos (en los services) y estos se guarden en el estado.
