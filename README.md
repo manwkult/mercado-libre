@@ -2,6 +2,8 @@
 
 Aplicación Web para buscar productos en Mercado Libre.
 
+![](https://github.com/manwkult/mercado-libre/blob/main/MercadoLibre.gif)
+
 
 ## Scripts Disponibles
 
